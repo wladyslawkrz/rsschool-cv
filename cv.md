@@ -37,3 +37,10 @@ function hexStringToRGB(hexString) {
   };
 }
 ```
+
+## Work experience
+*Nothing yet, work in progress*
+
+## Education 
+* I am currently studying at **Belarusian-Russian University**
+    * Automated inforamtion processing systems
