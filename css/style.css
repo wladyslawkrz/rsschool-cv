@@ -44,3 +44,26 @@ p {
   margin-left: 10px;
 }
 
+.footer {
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
+.indention {
+  margin-left: 50px;
+}
+
+.color-blue {
+  color: blue;
+}
+
+.color-purple {
+  color: rgb(163, 1, 163);
+}
+
+.indention-hr-footer {
+  margin-top: 25px;
+}
