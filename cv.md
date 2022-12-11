@@ -19,3 +19,21 @@ I am a 20 year old student. I think that my actual dream is to become a real fro
 * Git
 * Linux bash (basics)
 * Photoshop (basics)
+
+## Code example
+Codewars 5 kyu kata, Convert A Hex String To RGB
+
+```javascript
+function hexStringToRGB(hexString) {
+  let rgbArray = [
+    hexString.slice(1, 3),
+    hexString.slice(3, 5),
+    hexString.slice(5, 7),
+  ];
+  return {
+    r: parseInt(rgbArray[0], 16),
+    g: parseInt(rgbArray[1], 16),
+    b: parseInt(rgbArray[2], 16),
+  };
+}
+```
